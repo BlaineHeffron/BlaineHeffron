@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlaineHeffron
 - 👀 I’m interested in data accessibility, analysis, signal filtration
-- 🌱 I’m currently finishing my PhD in physics
+- 🌱 I recently finished my PhD in physics
 - 📫 Reach out to me at baheffron@gmail.com
 
 <!---
